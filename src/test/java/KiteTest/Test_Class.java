@@ -54,7 +54,7 @@ public class Test_Class extends Base_Class {
 	 @AfterMethod
 	  public void LogOutApp()
 	  {
-		  Reporter.log("Logout the application",true);
+		  Reporter.log("Logout from the application",true);
 		
 	  }
 	 
